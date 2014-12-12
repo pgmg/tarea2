@@ -4,4 +4,10 @@ Esta es la tarea
 subida por rutame
 ahora la edito yo PGMG y la subo
 Añado más cosas para verlo funcionar
+<<<<<<< HEAD
 Alberto voy a hacer un cambio
+=======
+Meto más cosas a ver que pasa
+Prueba 3
+Prueba 4
+>>>>>>> Rama1
